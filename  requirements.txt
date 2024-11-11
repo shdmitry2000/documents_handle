@@ -1,0 +1,8 @@
+pymongo
+uvicorn 
+langchain 
+langgraph
+fastapi 
+layoutlmv3 
+donut 
+python-dotenv
